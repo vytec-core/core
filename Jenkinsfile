@@ -2,6 +2,8 @@ pipeline {
     agent {label 'maven-label'} 
     options {
         skipStagesAfterUnstable()
+        sdjhfjhd
+        test1
     }
     stages {
         stage('Build') { 
