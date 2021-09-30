@@ -4,6 +4,8 @@ pipeline {
         skipStagesAfterUnstable()
         sdjhfjhd
         test1
+        tool M3
+        tool D3
     }
     stages {
         stage('Build') { 
