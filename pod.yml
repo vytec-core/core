@@ -1,4 +1,5 @@
-apiVersion:
-metadta
-kind:
+apiVersion: v1
+metadta: 
+  name: nginx-app
+kind: Pod
 spec:
