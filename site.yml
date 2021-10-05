@@ -1,0 +1,5 @@
+---
+- hosts: devgroup
+  vars:
+  tasks:
+  handlers:
